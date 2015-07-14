@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Utopia/AndroidStudioProjects/Volley/app/build/intermediates/exploded-aar/Volley/volley/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="80186877e9d90398557792aa8c98d705e3b89564">
+        <dex dex="/Users/Utopia/AndroidStudioProjects/Volley/app/build/intermediates/pre-dexed/debug/classes-3655639d3aa107992592ec497da1cae6d323e0b2.jar" />
+    </item>
+    <item
+        jar="/Users/Utopia/AndroidStudioProjects/Volley/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/Utopia/AndroidStudioProjects/Volley/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-126fef78728c1274bfe0a6f73fa0a977f90ed0b5.jar" />
+    </item>
+    <item
+        jar="/Users/Utopia/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/Utopia/AndroidStudioProjects/Volley/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-6c0c6b7a16e84073cb7cb51a0b6d0dfe0ab8a022.jar" />
+    </item>
+    <item
+        jar="/Users/Utopia/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/Utopia/AndroidStudioProjects/Volley/app/build/intermediates/pre-dexed/debug/gson-2.2.4-6cea30f336cc26159cc0f2d0356093241c085b1a.jar" />
+    </item>
+    <item
+        jar="/Users/Utopia/AndroidStudioProjects/Volley/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/Utopia/AndroidStudioProjects/Volley/app/build/intermediates/pre-dexed/debug/classes-efd4cbf43f7830a087686cd5080b8ad1fc64db92.jar" />
+    </item>
+    <item
+        jar="/Users/Utopia/AndroidStudioProjects/Volley/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/Users/Utopia/AndroidStudioProjects/Volley/app/build/intermediates/pre-dexed/debug/classes-ac5214aaa8610393ff3c66b649572c19055a6cd3.jar" />
+    </item>
+    <item
+        jar="/Users/Utopia/AndroidStudioProjects/Volley/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="/Users/Utopia/AndroidStudioProjects/Volley/app/build/intermediates/pre-dexed/debug/classes-9f878728778047d270fa7aa4ef56bd83c672b1be.jar" />
+    </item>
+
+</items>

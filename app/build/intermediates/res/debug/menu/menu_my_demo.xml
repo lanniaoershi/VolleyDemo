@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.example.volley_captech_blog.utopia.MyDemoActivity">
+    <item android:id="@+id/action_clear"
+          android:title="@string/action_clear"
+          android:orderInCategory="100"
+          android:showAsAction="never"/>
+</menu>
+<!-- From: file:/Users/Utopia/AndroidStudioProjects/Volley/app/src/main/res/menu/menu_my_demo.xml -->

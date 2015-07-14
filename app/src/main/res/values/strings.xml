@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Volley Demo</string>
+    <string name="title_activity_simple_request">Simple Request</string>
+    <string name="title_activity_image_request">Image Request</string>
+    <string name="title_activity_json_search_request">JSON Search</string>
+    <string name="title_activity_network_image_search">Network Image Search</string>
+    <string name="title_activity_my_demo">Volley</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_clear">Clear Cache</string>
+
+    <string-array name="demo_array">
+        <item>StringRequest</item>
+        <item>ImageRequest</item>
+        <item>Demo3</item>
+        <item>Demo4</item>
+        <item>Demo5</item>
+        <item>Demo6</item>
+        <item>Demo7</item>
+        <item>Demo8</item>
+        <item>Demo2</item>
+        <item>Demo3</item>
+        <item>Demo4</item>
+        <item>Demo5</item>
+        <item>Demo6</item>
+        <item>Demo7</item>
+        <item>Demo8</item>
+        <item>Demo2</item>
+        <item>Demo3</item>
+        <item>Demo4</item>
+        <item>Demo5</item>
+        <item>Demo6</item>
+        <item>Demo7</item>
+        <item>Demo8</item>
+    </string-array>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
